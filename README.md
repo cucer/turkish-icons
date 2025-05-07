@@ -17,6 +17,6 @@ A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism
 ext install cucer.turkish-icon-theme
 ```
 
-## ⚡ License
+## ⚡ Copyright
 
 All icons in this extension are original works. Redistribution or reuse without permission is prohibited.
