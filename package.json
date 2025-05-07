@@ -1,0 +1,27 @@
+{
+  "name": "turk-icon-theme",
+  "displayName": "Turkish Icon Theme",
+  "description": "A unique VS Code file icon theme inspired by symbols and motifs from Turkish history and culture.",
+  "version": "0.0.1",
+  "publisher": "cagatay-ucer",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "turkish-icon-theme",
+        "label": "Turkish Icon Theme",
+        "path": "./icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/turk-icon-theme.git"
+  }
+}
