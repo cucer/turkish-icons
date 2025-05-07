@@ -51,7 +51,6 @@
     "_file_rs": { "iconPath": "./icons/rs.png" },
     "_file_lock": { "iconPath": "./icons/lock.png" },
     "_file_xml": { "iconPath": "./icons/xml.png" },
-    "_file_svg": { "iconPath": "./icons/svg.png" },
     "_file_ini": { "iconPath": "./icons/ini.png" },
     "_file_ico": { "iconPath": "./icons/ico.png" },
 
@@ -62,25 +61,28 @@
     "_file_dockerfile": { "iconPath": "./icons/docker.png" },
     "_file_readme": { "iconPath": "./icons/readme.png" },
 
+    "_file_image": { "iconPath": "./icons/image.png" },
+    "_file_license": { "iconPath": "./icons/license.png" },
+
     "_folder": { "iconPath": "./icons/folder.png" },
     "_folder_open": { "iconPath": "./icons/folder-open.png" },
 
-    "_folder_src": { "iconPath": "./icons/folder-src.png" },
-    "_folder_src_open": { "iconPath": "./icons/folder-src-open.png" },
+    "_folder_src": { "iconPath": "./icons/foldersrc.png" },
+    "_folder_src_open": { "iconPath": "./icons/foldersrc-open.png" },
     "_folder_components": { "iconPath": "./icons/folder-components.png" },
     "_folder_components_open": {
       "iconPath": "./icons/folder-components-open.png"
     },
-    "_folder_public": { "iconPath": "./icons/folder-public.svg" },
-    "_folder_public_open": { "iconPath": "./icons/folder-public-open.svg" },
-    "_folder_assets": { "iconPath": "./icons/folder-assets.svg" },
-    "_folder_assets_open": { "iconPath": "./icons/folder-assets-open.svg" },
-    "_folder_node": { "iconPath": "./icons/folder-node.svg" },
-    "_folder_node_open": { "iconPath": "./icons/folder-node-open.svg" },
-    "_folder_utils": { "iconPath": "./icons/folder-utils.svg" },
-    "_folder_utils_open": { "iconPath": "./icons/folder-utils-open.svg" },
-    "_folder_hooks": { "iconPath": "./icons/folder-hooks.svg" },
-    "_folder_hooks_open": { "iconPath": "./icons/folder-hooks-open.svg" }
+    "_folder_public": { "iconPath": "./icons/folder-public.png" },
+    "_folder_public_open": { "iconPath": "./icons/folder-public-open.png" },
+    "_folder_assets": { "iconPath": "./icons/folder-assets.png" },
+    "_folder_assets_open": { "iconPath": "./icons/folder-assets-open.png" },
+    "_folder_node": { "iconPath": "./icons/folder-node.png" },
+    "_folder_node_open": { "iconPath": "./icons/folder-node-open.png" },
+    "_folder_utils": { "iconPath": "./icons/folder-utils.png" },
+    "_folder_utils_open": { "iconPath": "./icons/folder-utils-open.png" },
+    "_folder_hooks": { "iconPath": "./icons/folder-hooks.png" },
+    "_folder_hooks_open": { "iconPath": "./icons/folder-hooks-open.png" }
   },
 
   "fileExtensions": {
@@ -135,9 +137,20 @@
     "rs": "_file_rs",
     "lock": "_file_lock",
     "xml": "_file_xml",
-    "svg": "_file_svg",
     "ini": "_file_ini",
-    "ico": "_file_ico"
+    "ico": "_file_ico",
+    "png": "_file_image",
+    "jpg": "_file_image",
+    "jpeg": "_file_image",
+    "gif": "_file_image",
+    "svg": "_file_image",
+    "bmp": "_file_image",
+    "webp": "_file_image",
+    "tiff": "_file_image",
+    "heic": "_file_image",
+    "avif": "_file_image",
+    "license": "_file_license",
+    "licence": "_file_license"
   },
 
   "fileNames": {
@@ -146,7 +159,13 @@
     ".gitignore": "_file_gitignore",
     ".env": "_file_env",
     "Dockerfile": "_file_dockerfile",
-    "README.md": "_file_readme"
+    "README.md": "_file_readme",
+    "LICENSE": "_file_license",
+    "LICENSE.md": "_file_license",
+    "LICENSE.txt": "_file_license",
+    "LICENCE": "_file_license",
+    "LICENCE.txt": "_file_license",
+    "LICENCE.md": "_file_license"
   },
 
   "folder": "_folder",

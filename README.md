@@ -14,5 +14,5 @@ A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism
 2. Install via Marketplace (once published):
 
 ```bash
-ext install cagatay-ucer.turk-icon-theme
+ext install cucer.turkish-icon-theme
 ```
