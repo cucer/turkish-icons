@@ -22,5 +22,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/cucer/turkish-icons.git"
-  }
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "turkish",
+    "vscode"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cucer/turkish-icons"
 }
