@@ -8,8 +8,7 @@
     "vscode": "^1.70.0"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "contributes": {
     "iconThemes": [
