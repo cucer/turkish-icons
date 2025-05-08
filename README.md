@@ -18,7 +18,7 @@ A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism
 2. Install via Marketplace (once published):
 
 ```bash
-ext install cucer.turkish-icon-theme
+ext install cucer.turkishicons
 ```
 
 ## Usage
