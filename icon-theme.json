@@ -108,12 +108,7 @@
     ".env": "_file_env",
     "Dockerfile": "_file_dockerfile",
     "README.md": "_file_readme",
-    "LICENSE": "_file_license",
-    "LICENSE.md": "_file_license",
-    "LICENSE.txt": "_file_license",
-    "LICENCE": "_file_license",
-    "LICENCE.txt": "_file_license",
-    "LICENCE.md": "_file_license"
+    "LICENSE": "_file_license"
   },
 
   "folder": "_folder",

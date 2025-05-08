@@ -15,3 +15,6 @@ __MACOSX
 example.jpg
 *.jpg
 *.jpeg
+*.svg
+*.log
+*.tmp
