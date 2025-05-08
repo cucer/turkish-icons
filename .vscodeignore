@@ -4,10 +4,14 @@ package.json
 .gitignore
 .yarnrc
 yarn.lock
-vsc-extension-quickstart.md
 node_modules
 releases/**
 .vscode/**
 .vscode-test/**
 .github/
 .env*
+.DS_Store
+__MACOSX
+example.jpg
+*.jpg
+*.jpeg
