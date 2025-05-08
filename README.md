@@ -17,6 +17,15 @@ A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism
 ext install cucer.turkish-icon-theme
 ```
 
+## Usage
+
+- `Linux` & `Windows` > **File > Preferences > File Icon Theme > Cage Icons**.
+- `MacOS` > **Code > Preferences > File Icon Theme > Cage Icons**.
+
 ## ⚡ Copyright
 
 All icons in this extension are original works. Redistribution or reuse without permission is prohibited.
+
+## License
+
+[MIT](LICENSE)

@@ -3,8 +3,6 @@
 # dependencies
 /node_modules
 node_modules/
-src/
-out/
-.vscode/
+node_modules
+.vsix
 .DS_Store
-*.log
