@@ -2,6 +2,10 @@
 
 A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism, patterns, and motifs of Turkish culture and history.
 
+## Demo
+
+![Demo](./example.jpg)
+
 ## ✨ Features
 
 - Unique, modern SVG icons inspired by traditional Turkish visual elements.
