@@ -9,6 +9,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v0.0.1 — 8 May 2025
 
 Initial pre-release
-
-- ✨ [feature]: emojis for image, video and audio file types
-- ✨ [feature]: emojis for git and node special files and folders
