@@ -23,8 +23,8 @@ ext install cucer.turkishicons
 
 ## Usage
 
-- `Linux` & `Windows` > **File > Preferences > File Icon Theme > Cage Icons**.
-- `MacOS` > **Code > Preferences > File Icon Theme > Cage Icons**.
+- `Linux` & `Windows` > **File > Preferences > File Icon Theme > Turkish Icons**.
+- `MacOS` > **Code > Preferences > File Icon Theme > Turkish Icons**.
 
 ## ⚡ Copyright
 
