@@ -14,8 +14,7 @@
     "url": "https://github.com/cucer/turkish-icons"
   },
   "engines": {
-    "vscode": "^1.71.0",
-    "node": ">=16.14.2"
+    "vscode": "^1.100.0"
   },
   "keywords": [
     "icons",
@@ -33,8 +32,7 @@
       {
         "id": "turkish-icons",
         "label": "Turkish Icons",
-        "path": "./icon-theme.json",
-        "_watch": true
+        "path": "./themes/icons-theme.json"
       }
     ]
   }
