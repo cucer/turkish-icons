@@ -4,7 +4,7 @@ A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism
 
 ## Demo
 
-![Demo](./example.jpg)
+![Demo](./images/example.jpg)
 
 ## ✨ Features
 

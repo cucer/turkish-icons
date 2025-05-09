@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
 THE SOFTWARE.
-
----
-
-⚠️ **Image Copyright Notice**
-
-All icons in this extension are original works. Redistribution or reuse without permission is prohibited.
-
-All SVG and graphical assets used in this project are protected by copyright.
-
-These assets were created specifically for this theme and may not be reused, modified, or redistributed without explicit written permission from the author.
-
-Legal action will be considered in case of unauthorized usage or distribution of the icon set.
