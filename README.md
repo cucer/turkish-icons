@@ -1,10 +1,6 @@
-# turkish-icons README
+# Turkish Icons README
 
-A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism, patterns, and motifs of Turkish culture and history.
-
-## Demo
-
-![Demo](./images/example.jpg)
+A carefully crafted Visual Studio Code icon theme inspired by the rich symbolism, patterns, and motifs of Turkish culture and Anatolian history.
 
 ## ✨ Features
 

@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 > Author: [cucer](https://github.com/cucer)
 
-## v0.0.1 — 8 May 2025
+## v1.0.0 — 16 May 2025
 
 Initial pre-release
+
+## v1.0.7 — 16 May 2025
+
+Icon changed
+package.json changed
+turkish-iconitheme.json updated
+
+## v1.0.8 — 21 May 2025
+
+bugs fixed

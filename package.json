@@ -1,10 +1,15 @@
 {
   "name": "turkish-icons",
   "displayName": "Turkish Icons",
-  "description": "A Visual Studio Code icon theme inspired by Turkish culture.",
+  "description": "A Visual Studio Code icon theme inspired by Turkish culture and Anatolian motifs.",
   "icon": "images/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "publisher": "cucer",
+  "license": "MIT",
+  "author": {
+    "name": "Cagatay Ucer",
+    "url": "https://cagatayucer.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/cucer/turkish-icons"
